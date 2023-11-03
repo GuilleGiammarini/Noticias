@@ -1,0 +1,17 @@
+
+package com.Egg.noticias.Exception;
+
+
+public class MiException extends Exception {
+    
+    public MiException(String mensaje){
+        
+        super(mensaje);
+        
+        
+    
+    }
+    
+    
+    
+}
